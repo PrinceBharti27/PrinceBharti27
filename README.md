@@ -7,3 +7,7 @@
 <div align='center'><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceBharti27&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left">Badges:
+<p align="center">
+<img  src="https://holopin.io/api/user/board?user=Prince" alt="PrinceBharti"  width='500px'/
+<p></h3> 
